@@ -88,9 +88,3 @@ The project aims to reduce manual effort, improve waste management, and support 
 - **Volume:** 12, Issue 7
 - **ISSN:** 2349-6002
 
-
-## Note
-
-The Arduino code in this repository is a sample implementation based on the published project description. Sensor logic, pin connections, and servo positions should be calibrated according to the actual hardware setup.
-
-The research paper also describes IoT monitoring and conveyor operation, which are not implemented in the sample code provided here.
