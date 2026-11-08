@@ -88,11 +88,6 @@ The project aims to reduce manual effort, improve waste management, and support 
 - **Volume:** 12, Issue 7
 - **ISSN:** 2349-6002
 
-## Contributors
-
-- Sakshi Pawar
-- Anuja Gaikwad
-- Sanika Patil
 
 ## Note
 
